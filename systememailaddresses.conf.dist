@@ -1,4 +1,4 @@
 systememailaddresses = {
-    noreply = "noreply@mg.careerpeer.nl";
-    admin = "voorzitter@careerpeer.nl";
+    noreply = "noreply@localhost";
+    admin = "root@localhost";
 };
