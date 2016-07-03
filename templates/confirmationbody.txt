@@ -1,0 +1,5 @@
+Je aanmelding is binnengekomen.
+
+Gelieve je e-mail adres te bevestigen door naar de volgende URL te navigeren:
+
+{% confirmationlink %}
